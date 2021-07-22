@@ -171,8 +171,11 @@ footer{
         flex-direction: row;
         flex-wrap: wrap;
     }
+    .highlight-description p{
+        width: 350px;
+    } 
     .highlight img{
-    width: 472px;
+    width: 360px;
     height: 100%;
     margin-top: 30px;
     margin-left: 0;
@@ -187,7 +190,7 @@ footer{
         
         width: 250px;
         height: 70px;
-        margin-left: 110px;
+        margin-left: 62px;
         
     }
 }
